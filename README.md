@@ -15,6 +15,3 @@ We simply added a toothless idler to the classic kit, making belt tensioning eff
 ![image](https://github.com/microsmt/Microsmt-PNPv3/blob/main/picture4.jpg)
 
 
-
-一级标题
-# 一级标题
