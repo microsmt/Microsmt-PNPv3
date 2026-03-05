@@ -1,5 +1,5 @@
-# Get the kits: https //www.microsmt.com.cn/
-# Technical Support  https://discord.com/invite/qT7ZAAgspy
+# Get the kits:  www.microsmt.com.cn
+# Technical Support  discord.com/invite/qT7ZAAgspy
 # What is MicroSMT PNPv3?
 MicroSMT PNPv3 is an open-source pick-and-place machine kit designed specifically for compatibility with OpenPnP software. All the work started in 2021 and has been continuously iterated and improved ever since.
 
